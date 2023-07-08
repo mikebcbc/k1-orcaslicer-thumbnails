@@ -1,3 +1,5 @@
+**Please hold off on implementing this for now. There's a slight issue with the screen - Creality Print displays work fine. Ironing it out, feel free to leave feedback here.**
+
 # K1 Moonraker Thumbnails
 
 A quick edit of a single moonraker component (metadata.py) to generate an additional thumbnail that Creality Print, Cloud, and the K1 Screen (most importantly) can intepret. This change will make Moonraker automatically generate the thumbnail as long as you follow the usual thumbnail configuration for Mainsail, fluidd, etc. There are also additional installation steps outlined below.
