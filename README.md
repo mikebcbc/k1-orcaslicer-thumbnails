@@ -19,10 +19,10 @@ This change does not require the K1 to be exploited.
 1. Download `k1-thumbs.py` from this repo and place into your root OrcaSlicer directory, next to exe file. 
 
 
-2. In OrcaSlicer, in `Others -> Post-processing Scripts`, add the following code edited depending on your system:
+2. In OrcaSlicer, in `Others -> Post-processing Scripts`, add the following code edited depending on your system. For example, with Windows:
 
 ```
-<path-to-python-exec>\python.exe "<path-to-orcaslicer-folder>\k1-thumbs.py"
+C:\Windows\py.exe '<path-to-orcaslicer-folder>\k1-thumbs.py'
 ```
 
 3. GCode sent from OrcaSlicer should now show the thumbnail on the K1's screen and other applicable Creality locations.
