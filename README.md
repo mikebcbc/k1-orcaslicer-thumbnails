@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X7LBLK2)
+
 # K1 Moonraker Thumbnails for OrcaSlicer
 
 A quick post processing script to convince the outdated version of moonraker that the K1 uses that files sliced with OrcaSlicer are actually from SuperSlicer.
